@@ -1,0 +1,22 @@
+[2020-05-05 14:55:50] [info] Start Program:
+Path:"D:\\Scoala\\RepoLab\\OOP\\GUITati\\x64\\Debug\\GUITati.exe"
+Arguments:
+Working directory: "D:\\Scoala\\RepoLab\\OOP\\GUITati\\GUITati\\"
+Modules: Selected: D:\Scoala\RepoLab\OOP\GUITati\x64\Debug\GUITati.exe Excluded: 
+Sources: Selected: D:\Scoala\RepoLab\OOP\GUITati\GUITati Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\razva\AppData\Local\Temp\hezcpxwv.znw 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2020-05-05 14:55:50] [info] Module: D:\Scoala\RepoLab\OOP\GUITati\x64\Debug\GUITati.exe is selected because it matches selected pattern: D:\Scoala\RepoLab\OOP\GUITati\x64\Debug\GUITati.exe
+[2020-05-05 14:55:50] [info] ----------------------------------------------------
+[2020-05-05 14:55:50] [info] Coverage binary generated in file: C:\Users\razva\AppData\Local\Temp\hezcpxwv.znw
+[2020-05-05 14:55:50] [info] ----------------------------------------------------
+[2020-05-05 14:55:50] [error] Your program stop with error code: -1073741515

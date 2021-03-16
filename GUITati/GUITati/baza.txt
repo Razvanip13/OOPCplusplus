@@ -1,0 +1,9 @@
+1;1;1;1
+Alt film;fadfafd;Film;1
+Alt film11;fadfafd;Film;1
+Alt film12;fadfafd;Film;1
+Boy;1;1;1
+Codat clasa tractor cu pr.Csibula;Tractoarele nu au aratat atat de bine pana acum;Cod;3
+Gatit cu chef Scarlatescu;Invatam de la maestru;Gatit;4
+Seara de film;tzfadfadf;Film;3
+Seara14;tzfadfadf;Film;3
